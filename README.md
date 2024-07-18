@@ -47,8 +47,6 @@ Some things about me :<br/>
 
 
 
-## Me around the web:
--------------------
 
 
 ## 🛠️ My Skills
