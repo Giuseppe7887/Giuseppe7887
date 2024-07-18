@@ -22,11 +22,11 @@
 <!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 Some things about me :<br/>
-:one: Javascript Lover<br/>
+:one: Javascript lover<br/>
 :two: Developer since 3 Years<br/>
 :three: Self host lover<br/> 
 :four: I like Linux environment including servers and android<br/>
-:five: My favorite programming languages are: javascript, python and dart<br/> 
+:five: My favorite programming languages are javascript, python and dart<br/> 
 :six: About to study rust<br/>
 :seven: I like to learn new skills
 
@@ -70,15 +70,18 @@ Some things about me :<br/>
 
 
 ### Backend development
+&emsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 ![Fastapi](https://img.shields.io/badge/-Fastapi-000?&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 
 ### Desktop development
+&emsp;
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-000)
 
 ### Mobile development
+&emsp;
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=007ACC)
 
