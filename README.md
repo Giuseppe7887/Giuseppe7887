@@ -3,7 +3,7 @@
 
 <h1 align="center">I'm Giuseppe</h1>
 
-<img src="https://github.com/brizzio/brizzio/blob/main/header.jpg" align="center" alt="brizzio header image">
+<img src="https://github.com/Giuseppe7887/Giuseppe7887/blob/main/header.jpg" align="center" alt="brizzio header image">
 
 
 ## Welcome to my GitHub space! 🚀 As a tech lover, i work on every possible platform, i love, linux, mobile, web and desktop development
