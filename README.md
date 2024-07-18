@@ -78,7 +78,7 @@ Some things about me :<br/>
 ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-000)
 
-### MObile development
+### Mobile development
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=007ACC)
 
