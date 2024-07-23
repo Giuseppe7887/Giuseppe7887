@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Void Company Website](https://test.voidcompany.it/). 
 
-- 📚 I'm doing the a [Machine Learning Course](https://www.udemy.com/course/machinelearning/).
+- 📚 I'm doing a [Machine Learning Course](https://www.udemy.com/course/machinelearning/).
 
 - 📚 I got [3 Udemy Courses](https://drive.google.com/drive/u/1/folders/1BrUo52Vsm7PUjO8bTkxHhyCm6gmiXEe9?usp=sharing).
 
