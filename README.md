@@ -21,7 +21,7 @@
 
 - 📚 I'm doing the a [Machine Learning Course](https://www.udemy.com/course/machinelearning/).
 
-- 📚 I got the a [3 Udemy Courses](https://drive.google.com/drive/u/1/folders/1BrUo52Vsm7PUjO8bTkxHhyCm6gmiXEe9?usp=sharing).
+- 📚 I got [3 Udemy Courses](https://drive.google.com/drive/u/1/folders/1BrUo52Vsm7PUjO8bTkxHhyCm6gmiXEe9?usp=sharing).
 
 - 🌱 I’m currently learning **Flutter, micorpython and Arduino**
 
