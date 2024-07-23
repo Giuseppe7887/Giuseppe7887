@@ -8,7 +8,7 @@
 
 ## Welcome to my GitHub space! 🚀 As a tech lover, i work on every possible platform, i love, linux, mobile, web and desktop development
 
-## Developers can do the difference in a green future, thanks to the LINUX FOUNDATION i learned a lot the best practice.
+## Developers can do the difference in a green future, thanks to the LINUX FOUNDATION i learned a lot of best practice.
 <img src="https://github.com/Giuseppe7887/Giuseppe7887/blob/main/green-certificate.webp">
 
 <br/>
