@@ -8,14 +8,23 @@
 
 ## Welcome to my GitHub space! 🚀 As a tech lover, i work on every possible platform, i love, linux, mobile, web and desktop development
 
+## Developers can do the difference in a green future, thanks to the LINUX FOUNDATIN i learned all the best practice.
+<img src="https://github.com/Giuseppe7887/Giuseppe7887/blob/main/green-certificate.jpg">
+
+<br/>
+
+
 # Let's build the future, one commit at a time. 💻✨
 
 
 - 🔭 I’m currently working on [Void Company Website](https://test.voidcompany.it/). 
 
-- 📚 I'm also doing the a [Machine Learning Course](https://www.udemy.com/course/machinelearning/).
+- 📚 I'm doing the a [Machine Learning Course](https://www.udemy.com/course/machinelearning/).
+
+- 📚 I got the a [3 Udemy Courses](https://drive.google.com/drive/u/1/folders/1BrUo52Vsm7PUjO8bTkxHhyCm6gmiXEe9?usp=sharing).
 
 - 🌱 I’m currently learning **Flutter, micorpython and Arduino**
+
 - 💬 Ask me about **Linux, Javascript and Android**
 
 
