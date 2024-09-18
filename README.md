@@ -5,6 +5,8 @@
 
 <img src="https://github.com/Giuseppe7887/Giuseppe7887/blob/main/header.png" align="center" alt="Giuseppe7887 header image">
 
+#### <a href="https://github.com/giuseppe7887">See all projects</a>
+
 
 ## Welcome to my GitHub space! 🚀 As a tech lover, i work on every possible platform, i love, linux, mobile, web and desktop development
 
